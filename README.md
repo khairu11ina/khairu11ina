@@ -26,6 +26,11 @@
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 <br/>
 
+<h2>✍ Quotes</h2>
+<p align="center">
+  <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
+</p>
+
 <h2> :woman_technologist: About Me :</h2>
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
@@ -73,5 +78,12 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khairu11ina" />
 </p>
 
-
-
+<h2>🎮 Projects</h2>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khairu11ina&repo=Musify-app&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khairu11ina&repo=tRUllo&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khairu11ina&repo=cool-drawer-app&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khairu11ina&repo=postmanify-app&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khairu11ina&repo=FuzzySetCalculator&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khairu11ina&repo=PictureProcessing&show_owner=true" />
+</p>
